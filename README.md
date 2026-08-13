@@ -40,6 +40,7 @@ Both datasets are class-imbalanced (German Credit ~70/30, Fraud ~99.8/0.2), so e
 ```bash
 pip install -r requirements.txt
 ```
+Run scripts in order 01 → 02 → 03
 
 ## Author
 
