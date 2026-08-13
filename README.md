@@ -23,7 +23,6 @@ Raw data is **not included** in this repo (large files, and both are third-party
 
 ```
 ├── data/              # raw datasets (gitignored — see download links above)
-├── notebooks/         # analysis notebooks / scripts
 ├── requirements.txt   # Python dependencies
 └── README.md
 ```
